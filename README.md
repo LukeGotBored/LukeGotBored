@@ -5,7 +5,3 @@ I'm a student who's passionate about learning new languages and experimenting wi
 📚 Currently learning Java
 🔧 Currently upgrading [Party's Website](getparty.ml)
 #
-📞 You can reach me via [this email](g.teamfw@gmail.com)
-
-💡 Fun Fact!
-GitHub has many Easter Eggs!
