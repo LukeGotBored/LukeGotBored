@@ -5,4 +5,4 @@ I'm a student who's passionate about learning new languages and experimenting wi
 📚 Currently learning Java
 🔧 Currently upgrading [Party's Website](getparty.ml)
 #
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LukeGotBored)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LukeGotBored&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
