@@ -1,8 +1,46 @@
-# Hi there, i'm **Luke** 👋
+<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there, I'm <a href="lukegotbored.ml">Luke</a></h2>
+<p align="center">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"> <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
+</p>
+<h6 align="center"><sup>Wait, Spotify? what in the world...?</sup></h6>
 
-I'm a student who's passionate about learning new languages and experimenting with new ideas, usually in languages such as JavaScript, Python, C#/++ and even Java!
+### 🔎 About Me
+Front-end Developer and Student, aiming to become a **Web Master**, 
+- 📚 Senior Student attending **Computer Science**
+- ❤️ Making the Internet a better place, one CSS line at a time 
+- 🌱 Web Developer since **2016**
+- 📬 Contact me at lukegotbored@outlook.it
+   
+#### 📃 Useless informations
+```javascript
+const luke = {
+  age: 18,
+  pronouns: "he/him", 
+  locale: ["it_It", "en_Us"],
+  codingSkills: ["HTML", "CSS", "JavaScript", "Java", "Python", "C"],  // Yes, C
+}
+```  
+<br>
+  
+### :octocat: GitHub Stats
+<a href="https://github.com/lukegotbored">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukegotbored&hide=tex&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/lukegotbored">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lukegotbored&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21" alt="Taulant's GitHub Stats" />
+</a>
 
-📚 Currently learning Java
-🔧 Currently upgrading [Party's Website](getparty.ml)
-#
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LukeGotBored&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/lukegotbored/Party">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lukegotbored&repo=Party&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/lukegotbored/taulantxhakli.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lukegotbored&repo=focus&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21" />
+</a>  
+
+<br>
+  
+### 🔗 Credits
+- The icons/badges are provided by [Shields.io](https://shields.io/)
+- GitHub Stats provided by [Anurag's github stats](https://github.com/anuraghazra/github-readme-stats)
