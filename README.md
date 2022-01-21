@@ -51,5 +51,5 @@ const luke = {
 
 <h6 align="center">
 Last Update:
-21/01/202
+21/01/2022
 </h6>
