@@ -9,7 +9,7 @@
 <h6 align="center"><sup>Wait, Spotify? What in the world...?</sup></h6>
 
 ### 🔎 About Me
-Front-end Developer and Student, aiming to become a **Web Master**, 
+Front-end Developer and Student, aiming to become **Web Master**, 
 - 📚 Senior Student attending **Computer Science**
 - ❤️ Making the Internet a better place, one CSS line at a time 
 - 🌱 Web Developer since **2016**
