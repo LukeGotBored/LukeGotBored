@@ -12,7 +12,7 @@
 Front-end Developer and Student, aiming to become **Web Master**, 
 - 📚 Senior Student attending **Computer Science**
 - ❤️ Making the Internet a better place, one CSS line at a time 
-- 🌱 Web Developer since **2016**
+- 🌱 Been learning Web dev since **2014**
 - 📬 Contact me at hello@lkgb.ml
    
 #### 📃 Useless informations
