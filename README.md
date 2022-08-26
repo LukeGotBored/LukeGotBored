@@ -1,9 +1,9 @@
-<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there, I'm <a href="https://lukegotbored.ml">Luke</a></h2>
+<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there, I'm <a href="https://lkgb.ml">Luke</a></h2>
 <p align="center">
     <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://t.me/lukethewuke"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" href=""></a> 
+    <a href="https://t.me/luwuke"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" href=""></a> 
     <a href="https://discord.com/users/305771483865546752"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
-    <a href="https://lukegotbored.ml"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"> 
+    <a href="https://lkgb.ml"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"> 
     <a href="https://open.spotify.com/track/4cOdK2wGLETKBW3PvgPWqT"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 </p>
 <h6 align="center"><sup>Wait, Spotify? What in the world...?</sup></h6>
