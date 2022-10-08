@@ -18,7 +18,7 @@ Front-end Developer and Student, aiming to become **Web Master**,
 #### 📃 Useless informations
 ```javascript
 const luke = {
-  age: 18,
+  age: 19,
   pronouns: ["he","him"], 
   locale: ["it_It", "en_Us"],
   codingSkills: ["HTML", "CSS", "JavaScript", "Java", "Python", "C"]
@@ -51,5 +51,5 @@ const luke = {
 
 <h6 align="center">
 Last Update:
-21/08/2022
+08/10/2022
 </h6>
