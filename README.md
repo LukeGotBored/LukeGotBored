@@ -1,24 +1,22 @@
-<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there, I'm <a href="https://lkgb.ml">Luke</a></h2>
+<h2 align="center">Hi there, I'm <a href="https://clipverse.net">Luke</a></h2>
 <p align="center">
     <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://t.me/luwuke"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" href=""></a> 
+    <a href="https:/t.me/italianfemboy"><!-- I can explain (no I can not) --><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" href=""></a> 
     <a href="https://discord.com/users/305771483865546752"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
-    <a href="https://lkgb.ml"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"> 
-    <a href="https://open.spotify.com/track/4cOdK2wGLETKBW3PvgPWqT"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+    <a href="https://clipverse"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"> 
 </p>
-<h6 align="center"><sup>Wait, Spotify? What in the world...?</sup></h6>
 
 ### 🔎 About Me
 Front-end Developer and Student, aiming to become **Web Master**, 
 - 📚 Senior Student attending **Computer Science**
 - ❤️ Making the Internet a better place, one CSS line at a time 
 - 🌱 Been learning Web dev since **2014**
-- 📬 Contact me at hello@lkgb.ml
+- 📬 Contact me at luke@clipverse.net
    
 #### 📃 Useless informations
 ```javascript
 const luke = {
-  age: 19,
+  age: 20,
   pronouns: ["he","him"], 
   locale: ["it_It", "en_Us"],
   codingSkills: ["HTML", "CSS", "JavaScript", "Java", "Python", "C"]
@@ -51,5 +49,5 @@ const luke = {
 
 <h6 align="center">
 Last Update:
-08/10/2022
+19/10/2023
 </h6>
