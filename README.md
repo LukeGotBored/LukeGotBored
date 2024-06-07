@@ -1,7 +1,7 @@
 <h2 align="center">Hi there, I'm <a href="https://clipverse.net">Luke</a></h2>
 <p align="center">
     <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https:/t.me/italianfemboy"><!-- I can explain (no I can not) --><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" href=""></a> 
+    <a href="https:/t.me/clipwav"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" href=""></a> 
     <a href="https://discord.com/users/305771483865546752"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
     <a href="https://clipverse"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"> 
 </p>
@@ -46,8 +46,13 @@ const luke = {
 ### 🔗 Credits
 - The icons/badges are provided by [Shields.io](https://shields.io/)
 - GitHub Stats provided by [Anurag's github stats](https://github.com/anuraghazra/github-readme-stats)
+- Profile Background CSS Injection by @cloud11665
 
 <h6 align="center">
 Last Update:
-19/10/2023
+07/06/2024
 </h6>
+
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/LukeGotBored/LukeGotBored/assets/20886839/072099ac-f95c-4dfa-b541-b429ab536e91');]{x0000}$}
