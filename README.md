@@ -53,10 +53,5 @@ const luke = {
 
 <h6 align="center">
 Last Update:
-07/06/2024
+08/09/2024
 </h6>
-
-
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 300vw; opacity: 0.2; background: url('https://github.com/LukeGotBored/LukeGotBored/assets/20886839/f7b633b1-4586-4592-bca3-3d4bc13e54ff
-');]{x0000}$}
