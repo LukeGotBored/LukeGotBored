@@ -49,9 +49,8 @@ const luke = {
 - The icons/badges are provided by [Shields.io](https://shields.io/)
 - GitHub Stats provided by [Anurag's github stats](https://github.com/anuraghazra/github-readme-stats)
 - Discord status provided by [Lanyard](https://github.com/Phineas/lanyard)
-- Profile Background CSS Injection by @cloud11665
 
 <h6 align="center">
 Last Update:
-08/09/2024
+15/09/2024
 </h6>
