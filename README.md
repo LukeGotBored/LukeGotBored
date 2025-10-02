@@ -1,4 +1,4 @@
-<h2 align="left">Hi there, I'm <a href="https://clipverse.net">Clip</a></h2>
+<h2 align="left">Hi there, I'm <a href="https://owo.rocks">Nori</a></h2>
 <p align="left">
     <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https:/t.me/clipwav"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" href=""></a> 
@@ -19,7 +19,7 @@ Front-end Developer and Student, aiming to become **Web Master**,
 #### 📃 Useless informations
 ```javascript
 const luke = {
-  age: 21,
+  age: 22,
   pronouns: ["he","him"], 
   locale: ["it_It", "en_Us"],
   codingSkills: ["HTML", "CSS", "JavaScript", "Java", "Python", "C"]
@@ -52,5 +52,5 @@ const luke = {
 
 <h6 align="center">
 Last Update:
-15/09/2024
+02/10/2025
 </h6>
