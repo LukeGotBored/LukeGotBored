@@ -14,13 +14,13 @@ Front-end Developer and Student, aiming to become **Web Master**,
 - 📚 Senior Student attending **Computer Science**
 - ❤️ Making the Internet a better place, one CSS line at a time 
 - 🌱 Been learning Web dev since **2014**
-- 📬 Contact me at luke@clipverse.net
+- 📬 Contact me at nori@owo.rocks
    
 #### 📃 Useless informations
 ```javascript
-const luke = {
+const amber = {
   age: 22,
-  pronouns: ["he","him"], 
+  pronouns: ["she","her"], 
   locale: ["it_It", "en_Us"],
   codingSkills: ["HTML", "CSS", "JavaScript", "Java", "Python", "C"]
 }
@@ -52,5 +52,5 @@ const luke = {
 
 <h6 align="center">
 Last Update:
-02/10/2025
+08/04/2026 (dd/mm/yyyy)
 </h6>
