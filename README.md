@@ -19,7 +19,7 @@ Front-end Developer and Student, aiming to become **Web Master**,
 #### 📃 Useless informations
 ```javascript
 const amber = {
-  age: 22,
+  age: 23,
   pronouns: ["she","her"], 
   locale: ["it_It", "en_Us"],
   codingSkills: ["HTML", "CSS", "JavaScript", "Java", "Python", "C"]
